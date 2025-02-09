@@ -1,4 +1,4 @@
-# KKN-Project---Infografis-Kependudukan-Desa-Tanjung-Agung
+# KKN-Project | Infografis-Kependudukan-Desa-Tanjung-Agung
 
 Proyek ini bertujuan untuk menyajikan data kependudukan Desa Tanjung Agung, Kecamatan Katibung, Kabupaten Lampung Selatan dalam bentuk visualisasi yang informatif dan mudah dipahami. Menggunakan Looker Studio, saya membuat dashboard interaktif untuk menganalisis dan menampilkan data secara dinamis. Selain itu, hasil visualisasi dikemas dalam bentuk poster menarik, sehingga dapat digunakan untuk sosialisasi dan pengambilan keputusan berbasis data.
 
